@@ -3,7 +3,7 @@
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="SOFT_MARGINS" value="100" />
   <CssCodeStyleSettings>
-    <option name="HEX_COLOR_LOWER_CASE" value="true" />
+    <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
   </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
@@ -37,6 +37,11 @@
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="100" />
     <option name="SOFT_MARGINS" value="100" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
